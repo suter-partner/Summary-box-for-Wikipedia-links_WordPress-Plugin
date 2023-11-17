@@ -1,0 +1,41 @@
+/*!
+ * «SUMMARY BOX FOR WIKIPEDIA LINKS» :: former «WIKIPEDIA PREVIEW BOXES»
+ * 10 December 2021 :: nick, su-pa.net; Version 1.0.0, MIT-License
+ * 
+ * 07 August 2023, 23 October 2023 :: dominik fehr, su-pa.net 
+ * a) version for all websites v1.1.1; :: b) WordPress plugin v1.0.0
+ * Code refactoring, more custom params, new WP plugin
+ * GPL3-License :: license changed (adapted to WP)
+ * 
+ * Project page: https://su-pa.net/wikiPrevBox/
+ * Dominik, wikinick@su-pa.net
+ */
+
+Besides using the WordPress plugin you have the following possibilities.
+
+/*** THE WIKIPEDIA SUMMARY BOX FEATURE IS ALSO AVAILABLE FOR ANY TYPE OF WEBSITE OR WEB APP!
+I) SELF HOSTING:
+1. Download the source from our GitHub repository https://github.com/su-pa/Wikipedia-preview-boxes and
+copy the folder "wikiPrevBox" to the root of your website
+2. Add the following line of code at the very bottom of your website, just before the </body> tag or inside the <head> tag:
+<script src="/wikiPrevBox/wikiPreviewBox.min.js" defer></script>
+Note: You can skip "defer" if you place the code snippet at the bottom of your page.
+3. Everything is done, all new and existing Wikipedia links should now show the preview box.
+ 
+=> read also the readme.md and check the available settings
+=> note the comments in the source files
+
+II) COPY, PASTE & GO:
+1. Add the following line of code at the very bottom of your website, just before the </body> tag or inside the <head> tag.
+<script src="https://su-pa.net/wikiPrevBox/wikiPreviewBox.min.js" crossorigin="anonymous" defer></script> 
+Note: You can skip "defer" if you place the code snippet at the bottom of your page.
+2. Everything is done, all new and existing Wikipedia links should now show the preview box.
+
+Go to the project site for more information, link below.
+/*** 
+
+Send an email on any questions or if you have comments, ideas, etc.
+Dominik, wikinick@su-pa.net
+
+Project page:       https://su-pa.net/wikiPrevBox/
+Plugin test page:   https://supa.cyon.site/
