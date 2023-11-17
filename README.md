@@ -5,4 +5,4 @@
 
 The plugin is in the review queue and will be added to the official [WP Plugin Directory](https://wordpress.org/plugins) as soon as possible.  
 
-You can use it on your website right now. Download the ZIP file and install the plugin.
+But you can use it on your website right now. Download the ZIP file and install the plugin.
