@@ -3,7 +3,7 @@ Contributors: tivid
 Donate link: https://buy.stripe.com/dR6dSH8UH0xd4dq288
 Tags: wikipedia, summary, preview, learn, term, card, popup, wiki, knowledge, link, facts, notion
 Requires at least: 4.7
-Tested up to: 6.3
+Tested up to: 6.4.1
 Stable tag: 1.0.0
 Requires PHP: 5.6
 License: GPLv3 or later
