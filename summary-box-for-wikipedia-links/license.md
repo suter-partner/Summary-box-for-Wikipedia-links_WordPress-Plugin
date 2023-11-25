@@ -12,4 +12,5 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with "Summary for Wikipedia links". If not, see https://www.gnu.org/licenses/gpl-3.0.html.
 
-08/2023 suter & partner, https://su-pa.net
+Project page: https://su-pa.net/wikiPrevBox  
+11/2023 suter & partner, https://su-pa.net

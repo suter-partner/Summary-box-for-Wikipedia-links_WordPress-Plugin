@@ -1,7 +1,7 @@
 /*!
  * Plugin Name: Summary box for Wikipedia links
  * Plugin URI: https://su-pa.net/wikiPrevBox/
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author: suter & partner
  * Author URI: https://su-pa.net/
  * License: GPL v3 or later
@@ -9,7 +9,7 @@
  * Text Domain: summary-box-for-wikipedia-links
  * Description: Provides a preview for Wikipedia links with nice summary boxes when a reader hovers over or taps a word that is linked to a Wikipedia article.
  * 
- * su-pa.net, 29/10/2023, 1.0.0, Dominik Fehr, wikinick@su-pa.net
+ * su-pa.net, 25/11/2023, 1.0.1, Dominik Fehr, wikinick@su-pa.net
  */
 
 //#region wikipedia preview boxes
@@ -128,7 +128,7 @@
 
     //#region sanitize API data from Wikipedia
     function sanitizeApiData(str) { //sanitizeHTML
-        const allowedTags = ['b', 'i', 'p', 'strong', 'ul', 'li', 'img', 'span', 'a']; //allowed tags           
+        const allowedTags = ['b', 'i', 'p', 'strong', 'ul', 'li', 'img', 'span', 'a', 'sup', 'sub', 'div', 'ol']; //allowed tags           
         return str.replace(/<\/?([a-zA-Z0-9]+)(\s+[^>]*)?>/g, (match, tagName) => { // replace not allowed tags with its escaped version
             tagName = tagName.toLowerCase();
             if (allowedTags.includes(tagName)) {return match;} // allowed tags
