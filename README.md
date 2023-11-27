@@ -17,6 +17,7 @@ The ZIP file is ready to be installed on your WordPress site.
 The plugin is based on our project ["Summary box for Wikipedia links"](https://wordpress.org/plugins/summary-box-for-wikipedia-links) with the same feature but for any website that we started in 12/2021.
 
 ## Update history
+- **Version 1.0.1**, (Nov 27, 2023), readme WP plugin, new screenshot-4.jpg, ZIP renewed
 - **Version 1.0.1**, (Nov 25, 2023), added missing allowed tag in summary box (Wiki API data, ``<sup>``), update texts, ZIP, new screenshot-2.gif
 - **Version 1.0.0**, (Nov 23, 2023), initial release
 - **Version 1.0.0 (preview)**, (Nov 17, 2023), review process underway 
@@ -37,4 +38,4 @@ License: [GPL v3 License](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
 ## Contact
 Dominik Fehr, wikinick@su-pa.net  
-Last updated, November 25, 2023, [su-pa.net](https://su-pa.net)
+Last updated, November 27, 2023, [su-pa.net](https://su-pa.net)

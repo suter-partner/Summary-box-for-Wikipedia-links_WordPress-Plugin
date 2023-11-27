@@ -42,7 +42,7 @@ class summary_box_for_wikipedia_links_admin {
                 <tr>
                     <th scope="row">#showimage</th>
                     <td><p class="description"><b>After checking "Disable images" above</b>, no images are displayed.<br>
-                    With this parameter you can still display an image in a specific overview field.<br>
+                    With this parameter you can still display an image in a specific summary box.<br>
                     Example: <code>https://en.wikipedia.org/wiki/Wind#showimage</code>                    
                 </p></td>
                 </tr>

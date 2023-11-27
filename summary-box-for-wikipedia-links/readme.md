@@ -15,9 +15,9 @@ The «Summary box for Wikipedia links» brings the preview boxes from Wikipedia 
 
 The **«Summary box for Wikipedia links»** plugin brings the [Page Previews](https://www.mediawiki.org/wiki/Page_Previews) from WikiMedia to your website! It displays simple and nice summary boxes on every Wikipedia link. Once activated, it turns all **existing** and **new** Wikipedia links on your site into ones with interactive summary boxes! 
 
-**Authors and visitors love it!**
+**Authors and visitors love it! <sup>❤️</sup>**
 
-- Simplifies content creation by providing on-demand glossaries.  
+- Simplifies content creation by providing on-demand term explanations.  
 - Connects your visitors to Wikipedia's wealth of knowledge.  
 - Enhances your site with a simple, valuable, useful and nice feature!
 
@@ -30,6 +30,14 @@ The **«Summary box for Wikipedia links»** plugin brings the [Page Previews](ht
 - is based on our library that can bring this feature to any website, not just WP, first release was 12/2021.
 - is very lightweight, free and open source.
 
+**Settings. You have control over whether to ...**
+
+- show summary boxes for all Wikipedia links, or none but only show selected ones. 
+- show images in all boxes, or none but also only in selected ones.
+- display or hide each box and each image within it separately.
+- change the width of the summary boxes, the number of characters displayed, the font size and more.
+
+Best of all, using the settings it's really simple, but in most cases you don't need them at all, just activate the plugin and see if you like it.  
 
 **Examples**  
 [Try it out on our project page](https://su-pa.net/wikiPrevBox/) (su-pa.net).  
@@ -45,9 +53,9 @@ Give it a try!
 Thank you very much.
 
 **Donate**  
-The initial version was created for our project **"The Horse" concept** to support student learning and projects. If you find the plugin helpful, please consider supporting the development by donating to [THE ! association](https://the-horse.education).
+The first version was created for our **"The Horse" project**, which supports cross-border student learning and collaboration projects. If you find the plugin helpful, please consider supporting the development by donating to [THE ! association](https://the-horse.education).
 
-For suggestions or inquiries, feel free to contact me  
+For suggestions or inquiries, feel free to contact us  
 Dominik, wikinick@su-pa.net.
 
 == Installation ==
@@ -67,30 +75,34 @@ Dominik, wikinick@su-pa.net.
 
 Not all, but most, Wikipedia articles contain an image that can be displayed in the summary box. Also make sure that you didn't use the "#dontshowimage" parameter in your Wikipedia link or you have selected "Disable Images" in the administration.
 
+= Why is a particular summary box showing fewer characters than set in the admin? =
+
+The value set in the admin is a maximum. The number of characters displayed in a summary box also depends on the text in the linked Wikipedia article. 
+
 = How do I customize the settings for the summary boxes? =
 
 In your WordPress admin area, navigate to Settings > **Summary for Wikipedia**. There, you can adjust the width, number of characters, font size, disable showing images in all summary boxes, and more.
 
 = I did a change in the settings but it seems not to have an effect. =
 
-The pages of your website may be cached by your web server oder browser - please clear these caches.
-
-**Note:** Using the settings is mostly not needed at all, just enable the plugin and see if you like it. If you have any ideas, let us know.
-
+The pages of your website may be cached by your web server or browser - please clear these caches.
 
 == Screenshots ==
 
 1. The Summary box with a preview of the "Wind" article on Wikipedia
 2. Demo on desktop
-3. Settings of the «Summary box for Wikipedia links»
+3. Settings of the «Summary box for Wikipedia links» that affect Summary boxes
+4. Parameters that affect a specific preview aka summary box
 
 == Changelog ==
 = 1.0.0 - 20.11.2023 =
-* Initial release.  
+* Initial release.
 = 1.0.0 - 24.11.2023 =
 * Update Details text.
 = 1.0.1 - 25.11.2023 =
 * Added some allowed tags in the summary box.
+= 1.0.1 - 27.11.2023 =
+* Update Details text; settings, FAQ, screenshot added.
 
-Version 1.0.1, 25 November 2023, df
+Version 1.0.1, 27 November 2023, df
 Dominik Fehr, wikinick@su-pa.net
