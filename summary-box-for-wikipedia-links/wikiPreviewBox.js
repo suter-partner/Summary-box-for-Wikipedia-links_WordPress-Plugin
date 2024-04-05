@@ -1,7 +1,7 @@
 /*!
  * Plugin Name: Summary box for Wikipedia links
  * Plugin URI: https://su-pa.net/wikiPrevBox/
- * Version: 1.0.1
+ * Version: 1.0.2
  * Author: suter & partner
  * Author URI: https://su-pa.net/
  * License: GPL v3 or later
@@ -9,7 +9,7 @@
  * Text Domain: summary-box-for-wikipedia-links
  * Description: Provides a preview for Wikipedia links with nice summary boxes when a reader hovers over or taps a word that is linked to a Wikipedia article.
  * 
- * su-pa.net, 25/11/2023, 1.0.1, Dominik Fehr, wikinick@su-pa.net
+ * su-pa.net, 25/11/2023, 1.0.1; 05/04/2024, 1.0.2; Dominik Fehr, wikinick@su-pa.net
  */
 
 //#region wikipedia preview boxes
@@ -20,7 +20,7 @@
     // 1) copy, past & go! 2) self hosting 3) WordPress (WP) plugin (=> CSS path is in PHP file)
     
     //path to the CSS file
-    //let CSS_PATH = "https://su-pa.net/wikiPrevBox/wikiPreviewBox.min.css"; //copy, past & go! 
+    //let CSS_PATH = "https://su-pa.net/wikiPrevBox/wikiPreviewBox.min.css";   //copy, past & go! 
     //let CSS_PATH   = "/wikiPrevBox/wikiPreviewBox.min.css";                  //self hosting
     //document.getElementsByTagName('head')[0].insertAdjacentHTML('beforeend', '<link rel="stylesheet" type="text/css" href="' + CSS_PATH + '">'); //self hosting 
     

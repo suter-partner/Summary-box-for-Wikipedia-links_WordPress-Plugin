@@ -1,19 +1,22 @@
 === Summary box for Wikipedia links ===
 Contributors: tivid
 Donate link: https://buy.stripe.com/dR6dSH8UH0xd4dq288
-Tags: wikipedia, summary, preview, learn, term, card, popup, wiki, knowledge, link, facts, notion
+Tags: wikipedia, preview, education, enhancement, content
 Requires at least: 4.7
-Tested up to: 6.4.1
-Stable tag: 1.0.1
+Tested up to: 6.5
+Stable tag: 1.0.2
 Requires PHP: 5.6
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
-The «Summary box for Wikipedia links» brings the preview boxes from Wikipedia to your website! It displays nice summary boxes on every Wikipedia link.
+Enhance your site with Wikipedia summary boxes! Offer instant info previews on existing and new Wikipedia links without altering your website code.
 
 == Description ==
 
-The **«Summary box for Wikipedia links»** plugin brings the [Page Previews](https://www.mediawiki.org/wiki/Page_Previews) from WikiMedia to your website! It displays simple and nice summary boxes on every Wikipedia link. Once activated, it turns all **existing** and **new** Wikipedia links on your site into ones with interactive summary boxes! 
+The **«Summary box for Wikipedia links»** plugin brings the [Page Previews](https://www.mediawiki.org/wiki/Page_Previews) from WikiMedia to your website. It displays simple and nice summary boxes on every Wikipedia link. 
+
+**Immediately after activating the plugin, you get nicely animated summary boxes <ins>for all existing and new</ins> Wikipedia links on your site!**  
+All without touching your source code in any way, so you can try it out without hesitation.
 
 **Authors and visitors love it! <sup>❤️</sup>**
 
@@ -23,19 +26,19 @@ The **«Summary box for Wikipedia links»** plugin brings the [Page Previews](ht
 
 **This plugin ...**
 
-- works smoothly with touch and mouse on mobile and desktop.
-- works out of the box, just set a normal Wikipedia link and the summary box appears.
-- supports all existing languages and text directions (ltr, rtl) on Wikipedia.
-- does not affect your website in any way.
-- is based on our library that can bring this feature to any website, not just WP, first release was 12/2021.
-- is very lightweight, free and open source.
+- Works out of the box, just set a Wikipedia link as usual and the summary box appears.
+- Works smoothly with touch and mouse on mobile, desktop and tablet.
+- Supports all existing languages and text directions (ltr, rtl) on Wikipedia.
+- Does not affect your website in any way.
+- Is based on our library that can bring this feature to any website, not just WP, first release was 12/2021.
+- Is very lightweight, free and open source.
 
 **Settings. You have control over whether to ...**
 
-- show summary boxes for all Wikipedia links, or none but only show selected ones. 
-- show images in all boxes, or none but also only in selected ones.
-- display or hide each box and each image within it separately.
-- change the width of the summary boxes, the number of characters displayed, the font size and more.
+- Show summary boxes for all Wikipedia links, or none but only show selected ones. 
+- Show images in all boxes, or none but also only in selected ones.
+- Display or hide each box and each image within it separately.
+- Change the width of the summary boxes, the number of characters displayed, the font size and more.
 
 Best of all, using the settings it's really simple, but in most cases you don't need them at all, just activate the plugin and see if you like it.  
 
@@ -103,6 +106,8 @@ The pages of your website may be cached by your web server or browser - please c
 * Added some allowed tags in the summary box.
 = 1.0.1 - 27.11.2023 =
 * Update Details text; settings, FAQ, screenshot added.
+= 1.0.2 - 05.04.2024 =
+* updating for WP 6.5 compatibility, some minor text updates.
 
-Version 1.0.1, 27 November 2023, df
+Version 1.0.2, 05 April 2024, df
 Dominik Fehr, wikinick@su-pa.net

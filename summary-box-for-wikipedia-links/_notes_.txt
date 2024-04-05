@@ -9,7 +9,11 @@
  * v1.0.1 :: 25 Nov 2023
  * -update allowed tags in the summary box eg. <sup>
  * -update version & some texts
- * 
+ *
+ * v1.0.2 :: 05 Apr 2024
+ * -updating for WP 6.5 compatibility
+ * -some minor text updates
+ *
  * Project page: https://su-pa.net/wikiPrevBox/
  * Dominik Fehr, wikinick@su-pa.net
  */
