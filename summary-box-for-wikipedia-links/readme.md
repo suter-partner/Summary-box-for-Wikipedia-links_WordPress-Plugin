@@ -3,8 +3,8 @@ Contributors: tivid
 Donate link: https://buy.stripe.com/dR6dSH8UH0xd4dq288
 Tags: wikipedia, preview, education, enhancement, content
 Requires at least: 4.7
-Tested up to: 6.5
-Stable tag: 1.0.2
+Tested up to: 6.6
+Stable tag: 1.0.3
 Requires PHP: 5.6
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
@@ -105,9 +105,11 @@ The pages of your website may be cached by your web server or browser - please c
 = 1.0.1 - 25.11.2023 =
 * Added some allowed tags in the summary box.
 = 1.0.1 - 27.11.2023 =
-* Update Details text; settings, FAQ, screenshot added.
+* Update details text; settings, FAQ, screenshot added.
 = 1.0.2 - 05.04.2024 =
-* updating for WP 6.5 compatibility, some minor text updates.
+* Update for WP 6.5 compatibility, some minor text updates.
+= 1.0.3 - 21.07.2024 =
+* Update for WP 6.6 compatibility.
 
-Version 1.0.2, 05 April 2024, df
+Version 1.0.3, 21 Jul 2024, df
 Dominik Fehr, wikinick@su-pa.net
