@@ -1,14 +1,18 @@
 # Summary box for Wikipedia links &ndash; WordPress plugin
 
-Version 1.0.3, July 21, 2024, df  
+Version 1.0.3, July 21, 2024, df
 
-**The plugin has successfully passed the review process** on the first try and is now available in the [WP Plugin Directory](https://wordpress.org/plugins/summary-box-for-wikipedia-links) (wordpress.org). 
+## Introduction
+- The plugin shows nice preview boxes with the summaries of linked Wikipedia articles.
+- Works out of the box, even with existing Wikipedia links on your website.
+- Works on all devices, mobile and desktop.
+- Also available in a version that you can use on any website.
 
 ## Websites related to this project
 [Project page](https://su-pa.net/wikiPrevBox/index.html) (su-pa.net)  
 [Plugin in the WordPress directory](https://wordpress.org/plugins/summary-box-for-wikipedia-links) (wordpress.com)  
 [Plugin test page](https://supa.cyon.site/) (supa.cyon.site)  
-[Source Code of the Summary box, **usable on any website**](https://github.com/su-pa/Summary-box-for-Wikipedia-links) (github.com)
+[Source code](https://github.com/su-pa/Summary-box-for-Wikipedia-links) (github.com) for the Summary box, which can be used on any website, open source, also for self-hosting 
 
 ## About this repository
 Here you can find the code of the plugin version 1.0.2.  
@@ -21,7 +25,7 @@ The plugin is based on our project ["Summary box for Wikipedia links"](https://w
 - **Version 1.0.2**, (Apr 05, 2024), updating for WP 6.5 compatibility, minor text updates, update Tags, update description, ZIP renewed
 - **Version 1.0.1**, (Nov 27, 2023), readme WP plugin, new screenshot-4.jpg, ZIP renewed
 - **Version 1.0.1**, (Nov 25, 2023), added missing allowed tag in summary box (Wiki API data, ``<sup>``), update texts, ZIP, new screenshot-2.gif
-- **Version 1.0.0**, (Nov 23, 2023), initial release
+- **Version 1.0.0**, (Nov 23, 2023), initial release, review process passed on the first try
 - **Version 1.0.0 (preview)**, (Nov 17, 2023), review process underway 
 
 ## How to support
@@ -40,4 +44,4 @@ License: [GPL v3 License](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
 ## Contact
 Dominik Fehr, wikinick@su-pa.net  
-Last updated, July 21, 2024, [su-pa.net](https://su-pa.net)
+Last updated, April 05, 2024, [su-pa.net](https://su-pa.net)
