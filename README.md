@@ -44,4 +44,4 @@ License: [GPL v3 License](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
 ## Contact
 Dominik Fehr, wikinick@su-pa.net  
-Last updated, April 05, 2024, [su-pa.net](https://su-pa.net)
+Last code update, April 05, 2024, [su-pa.net](https://su-pa.net)
