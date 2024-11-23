@@ -1,6 +1,6 @@
 # Summary box for Wikipedia links &ndash; WordPress plugin
 
-Version 1.0.3, July 21, 2024, df
+Version 1.0.4, November 22, 2024, df
 
 ## Introduction
 - The plugin shows nice preview boxes with the summaries of linked Wikipedia articles.
@@ -15,12 +15,13 @@ Version 1.0.3, July 21, 2024, df
 [Source code](https://github.com/su-pa/Summary-box-for-Wikipedia-links) (github.com) for the Summary box, which can be used on any website, open source, also for self-hosting 
 
 ## About this repository
-Here you can find the code of the plugin version 1.0.2.  
+Here you can find the code of the plugin version 1.0.4.  
 The ZIP file is ready to be installed on your WordPress site. 
 
 The plugin is based on our project ["Summary box for Wikipedia links"](https://wordpress.org/plugins/summary-box-for-wikipedia-links) with the same feature but for any website that we started in 12/2021.
 
 ## Update history
+- **Version 1.0.4**, (Nov 22, 2024), updating for WP 6.7 compatibility
 - **Version 1.0.3**, (Jul 21, 2024), updating for WP 6.6 compatibility
 - **Version 1.0.2**, (Apr 05, 2024), updating for WP 6.5 compatibility, minor text updates, update Tags, update description, ZIP renewed
 - **Version 1.0.1**, (Nov 27, 2023), readme WP plugin, new screenshot-4.jpg, ZIP renewed
