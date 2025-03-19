@@ -3,7 +3,7 @@
  * Plugin Name: Summary box for Wikipedia links
  * Plugin URI: https://su-pa.net/wikiPrevBox/
  * Description: Provides a preview for Wikipedia links with nice summary boxes when a reader hovers over or taps a word that is linked to a Wikipedia article.
- * Version: 1.0.4
+ * Version: 1.1.0
  * Author: suter & partner, Dominik Fehr, wikinick@su-pa.net
  * Author URI: https://su-pa.net/
  * License: GPL v3 or later
@@ -15,6 +15,9 @@ if (!defined('ABSPATH')) { exit; } //exit if accessed directly
 require_once plugin_dir_path(__FILE__) . 'summary_box_for_wikipedia_links_admin.php';
 
 function supa_enqueue_WikiSummaryPreview() {
+    if (!is_admin() && !function_exists('get_plugin_data')) { //v1.1.0
+        require_once ABSPATH . 'wp-admin/includes/plugin.php';
+    }
     $data = get_plugin_data( __FILE__ ); //header data
     wp_enqueue_style('wiki-preview-box', esc_url(plugins_url('/summary-box-for-wikipedia-links/wikiPreviewBox.min.css')), [], $data['Version']);
     wp_enqueue_script('wiki-preview-box-js', esc_url(plugins_url('/summary-box-for-wikipedia-links/wikiPreviewBox.min.js')), [], $data['Version'], true);
