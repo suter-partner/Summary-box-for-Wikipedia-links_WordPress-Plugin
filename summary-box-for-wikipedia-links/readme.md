@@ -3,8 +3,8 @@ Contributors: tivid
 Donate link: https://buy.stripe.com/dR6dSH8UH0xd4dq288
 Tags: wikipedia, preview, education, enhancement, content
 Requires at least: 4.7
-Tested up to: 6.7.1
-Stable tag: 1.1.0
+Tested up to: 6.8.2
+Stable tag: 1.1.1
 Requires PHP: 5.6
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
@@ -114,6 +114,8 @@ The pages of your website may be cached by your web server or browser - please c
 * Update for WP 6.7 compatibility.
 = 1.1.0 - 19.03.2025 =
 * fixed a critical error on PHP 8.3+, missing get_plugin_data().
+= 1.1.1 - 17.07.2025 =
+* Update for WP 6.8 compatibility.
 
-Version 1.1.0, 19 Mar 2024, df
+Version 1.1.1, 17 July 2025, df
 Dominik Fehr, wikinick@su-pa.net

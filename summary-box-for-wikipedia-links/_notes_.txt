@@ -23,6 +23,9 @@
  * v1.1.0 :: 19 Mar 2025
  * -fixed a critical error on PHP 8.3+, missing get_plugin_data()
  *
+ * v1.1.1 :: 17 Jul 2025
+ * -update for WP 6.8 compatibility
+ *
  * Project page: https://su-pa.net/wikiPrevBox/
  * Dominik Fehr, wikinick@su-pa.net
  */
