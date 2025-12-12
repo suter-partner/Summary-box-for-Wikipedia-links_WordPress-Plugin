@@ -26,6 +26,9 @@
  * v1.1.1 :: 17 Jul 2025
  * -update for WP 6.8 compatibility
  *
+ * v1.1.2 :: 12 Dec 2025
+ * -update for WP 6.9 compatibility
+ *
  * Project page: https://su-pa.net/wikiPrevBox/
  * Dominik Fehr, wikinick@su-pa.net
  */
