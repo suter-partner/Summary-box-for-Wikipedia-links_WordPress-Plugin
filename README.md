@@ -1,26 +1,29 @@
 # Summary box for Wikipedia links &ndash; WordPress plugin
 
-Version 1.1.2, Dec 12, 2025, df
+Version 1.1.3, May 22, 2026, df
 
 ## Introduction
 - The plugin shows nice preview boxes with the summaries of linked Wikipedia articles.
-- Works out of the box, even with existing Wikipedia links on your website.
+- Works out of the box, even **with existing Wikipedia links** on your website.
 - Works on all devices, mobile and desktop.
-- Also available in a version that you can use on any website.
+- Also available in a version that you can use on **any website** (see Project page).
 
 ## Websites related to this project
-[Project page](https://su-pa.net/wikiPrevBox/index.html) (su-pa.net)  
+[Project page](https://su-pa.net/wikiPrevBox/) (su-pa.net) contains:  
+-&nbsp;WordPress plugin  
+-&nbsp;version to implement the feature everywhere (pure HTML5)  
+-&nbsp;version to implement the feature with a one-liner everywhere  
 [Plugin in the WordPress directory](https://wordpress.org/plugins/summary-box-for-wikipedia-links) (wordpress.com)  
 [Plugin test page](https://supa.cyon.site/) (supa.cyon.site)  
-[Source code](https://github.com/su-pa/Summary-box-for-Wikipedia-links) (github.com) for the Summary box, which can be used on any website, open source, also for self-hosting 
+[Source code](https://github.com/su-pa/Summary-box-for-Wikipedia-links) (github.com) for the Summary box version, which can be used to **implement the feature on any website** or web based apps. It's open source and can be self-hosted.
 
 ## About this repository
-Here you can find the code of the plugin version 1.1.0.  
-The ZIP file is ready to be installed on your WordPress site. 
+The ZIP file (summary-box-for-wikipedia-links.zip) contains the last version and is ready to be installed on your WordPress site. 
 
 The plugin is based on our project ["Summary box for Wikipedia links"](https://wordpress.org/plugins/summary-box-for-wikipedia-links) with the same feature but for any website that we started in 12/2021.
 
 ## Update history
+- **Version 1.1.3**, (May 22, 2026), updating for WP 7.0 compatibility
 - **Version 1.1.2**, (Dec 12, 2025), updating for WP 6.9 compatibility
 - **Version 1.1.1**, (Jul 17, 2025), updating for WP 6.8 compatibility
 - **Version 1.1.0**, (Mar 19, 2025), fixed a critical error on PHP 8.3+, missing get_plugin_data()
@@ -35,7 +38,7 @@ The plugin is based on our project ["Summary box for Wikipedia links"](https://w
 ## How to support
 We would be delighted if you would support **«The Horse project»**!\
 We are a non-profit association for the promotion of intercultural youth projects, since 2016.
-- Website of our organisation: [«THE ! association»](https://the-horse.education)
+- Website of our organisation: [«THE ! association»](https://the-horse.education) (the-horse.education) 
 - Realised cross-border projects of the young people: [dontwastemy.energy](https://dontwastemy.energy)
 - [Donate The Horse!](https://donate.stripe.com/aEU01Rfj55RxdO0cMO) (stripe.com)
 
@@ -48,4 +51,4 @@ License: [GPL v3 License](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
 ## Contact
 Dominik Fehr, wikinick@su-pa.net  
-Last code update, March 19, 2025, [su-pa.net](https://su-pa.net)
+Last update, May 22, 2026, [su-pa.net](https://su-pa.net)

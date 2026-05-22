@@ -3,8 +3,8 @@ Contributors: tivid
 Donate link: https://buy.stripe.com/dR6dSH8UH0xd4dq288
 Tags: wikipedia, preview, education, enhancement, content
 Requires at least: 4.7
-Tested up to: 6.9
-Stable tag: 1.1.2
+Tested up to: 7.0
+Stable tag: 1.1.3
 Requires PHP: 5.6
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
@@ -47,10 +47,12 @@ Best of all, using the settings it's really simple, but in most cases you don't 
 [Use on our website dontwastemy.energy](https://dontwastemy.energy/2023/05/23/video-games-and-the-environment-how-are-they-related/)
 
 **Links related to the plugin**  
-[Project page](https://su-pa.net/wikiPrevBox/) (su-pa.net)  
+[Project page](https://su-pa.net/wikiPrevBox/) (su-pa.net) contains:  
+-&nbsp;WordPress plugin  
+-&nbsp;version to implement the feature everywhere (pure HTML5),source code](https://github.com/su-pa/Summary-box-for-Wikipedia-links) (github.com)  
+-&nbsp;version to implement the feature with a one-liner everywhere  
 [Plugin source code](https://github.com/su-pa/Summary-box-for-Wikipedia-links_WordPress-Plugin/) (github.com)  
-[Plugin test page](https://supa.cyon.site/) (cyon.site)  
-[Source code of the library for any site](https://github.com/su-pa/Summary-box-for-Wikipedia-links) (github.com)  
+[Plugin test page](https://supa.cyon.site/) (cyon.site)    
 
 Give it a try!   
 Thank you very much.
@@ -118,6 +120,8 @@ The pages of your website may be cached by your web server or browser - please c
 * Update for WP 6.8 compatibility.
 = 1.1.2 - 12.12.2025 =
 * Update for WP 6.9 compatibility.
+= 1.1.3 - 21.05.2026 =
+* Update for WP 7.0 compatibility.
 
-Version 1.1.2, 12 December 2025, df
+Version 1.1.3, 21 May 2026, df
 Dominik Fehr, wikinick@su-pa.net
